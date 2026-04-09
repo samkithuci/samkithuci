@@ -25,4 +25,4 @@ Always learning, always building.
 
 ## 📫 Connect With Me
 - Email: smkithuci@gmail.com
-- LinkedIn: [LinkedIn]([url](https://www.linkedin.com/in/samuel-kithuci-0327b8337/))
+- 💼LinkedIn: [LinkedIn](https://www.linkedin.com/in/samuel-kithuci-0327b8337/)
