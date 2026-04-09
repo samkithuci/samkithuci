@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there I'm Samuel👋
 
-<!--
-**samkithuci/samkithuci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+A Data Analyst and Data Science student, currently pursuing Computer Technology at TUK.
+I work with data to uncover insights, build visualizations, and explore machine learning solutions.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL
+- Power BI / Data Visualization
+- Excel
+- Machine Learning (basics & models)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 What I Do
+- Data cleaning, analysis, and visualization
+- Building predictive models
+- Automating workflows with Python & SQL
+
+## 🌱 Currently Learning
+- Advanced Machine Learning
+- Data Engineering basics
+- AI applications
+
+Always learning, always building.
+
+## 📫 Connect With Me
+- Email: smkithuci@gmail.com
+- LinkedIn: [LinkedIn]([url](https://www.linkedin.com/in/samuel-kithuci-0327b8337/))
